@@ -1,0 +1,85 @@
+/* MarsRover.css */
+.Mars{
+  margin-left: 100px;
+  font-weight: bold;
+  font-size: larger;
+}
+button {
+    background-color: white;
+    font-weight: bold;
+}
+  
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .rover-btns {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+  }
+  li{
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .cameras-btns {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 20px;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 5px;
+  }
+  .rover-btns button {
+    padding: 10px 20px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+  }
+  .Submit{
+    margin-left: 898px;
+    padding: 10px 20px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+  }
+  .Submit button{
+    
+    padding: 10px 20px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+  }
+  .photo-slider img{
+    padding: 100px;
+    display: flex;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .Play-btn{
+    background-color: white; /* Green */
+  border: none;
+  /* color: white; */
+  padding: 15px 32px;
+  text-align: center;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+  text-decoration: none;
+  /* /display: inline-block; */
+  font-size: 16px;
+  }
+  
