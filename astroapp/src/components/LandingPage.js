@@ -26,11 +26,11 @@ const LandingPage = () => {
       url: 'https://c4.wallpaperflare.com/wallpaper/272/567/734/curiosity-mars-rover-wallpaper-preview.jpg',
       navto : 'MarsRover',
     },
-    // {
-    //   title: 'Exploring Distant Galaxies',
-    //   url: 'https://via.placeholder.com/300',
-    //   navto : 'emty',
-    // },
+    {
+      title: 'Picture Of the Day',
+      url: 'https://via.placeholder.com/300',
+      navto : 'emty',
+    },
   ];
 
   const [images, setImages] = useState([]);
